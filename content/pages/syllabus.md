@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: df820f3f-a218-61eb-ed59-b7f51c39cac6
 ---
@@ -21,7 +23,7 @@ Prerequisites
 
 *   rudimentary knowledge of biology, chemistry, and physics
 *   familiarity with linear algebra, multivariate calculus, and probability theory
-*   knowledge of a programming language (preferably MATLAB?)
+*   knowledge of a programming language (preferably MATLAB{{< sup "?" >}})
 
 Course Requirements
 -------------------
