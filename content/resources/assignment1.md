@@ -2,6 +2,7 @@
 content_type: resource
 description: Enzyme Kinetics
 file: /courses/9-530-cellular-and-molecular-computation-spring-2000/a8aaf9fd8653593aab4659e9653e12f3_assignment1.pdf
+file_size: 201952
 file_type: application/pdf
 learning_resource_types:
 - Assignments
