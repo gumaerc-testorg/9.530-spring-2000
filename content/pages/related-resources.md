@@ -1,16 +1,15 @@
 ---
 content_type: page
-description: ''
+description: Additional links and resources.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: b5a3e991-d513-4fc4-9fee-d2df91b56609
 ---
-
 The links below are online references for additional resources in the field of cellular and molecular computation. These range from professional societies that maintain links to areas that any reader can explore in this field. Many of the linked sites provide resources for further study, as well as downloadable resources that can be used for classroom teaching.
 
-Neuroscience
-------------
+## Neuroscience
 
 The [Society for Neuroscience](http://www.sfn.org/) addresses the study of brain development, sensation and perception, learning and memory, movement, sleep, stress, aging and neurological and psychiatric disorders. It also includes the molecules, cells and genes responsible for nervous system functioning.
 
@@ -20,30 +19,27 @@ The [National Institutes of Health](http://www.nih.gov/about/) (NIH) is the stew
 
 The [National Science Foundation](http://nsf.gov/) fosters the interchange of scientific information among scientists and engineers in the United States and foreign countries.
 
-Molecular Biology/Protein Analysis
-----------------------------------
+## Molecular Biology/Protein Analysis
 
 [BLAST](http://www.ncbi.nlm.nih.gov/BLAST/){{< sup "®" >}} (Basic Local Alignment Search Tool) is a set of similarity search programs designed to explore all of the available sequence databases regardless of whether the query is protein or DNA.
 
-The Baylor College of Medicine (BCM) [Search Launcher](http://www.xmarks.com/site/searchlauncher.bcm.tmc.edu/seq-util/seq-util.html) is an ongoing project to organize molecular biology-related search and analysis services available on the web by function, by providing a single point-of-entry for related searches.
+The Baylor College of Medicine (BCM) [Search Launcher](http://morissardjerome.free.fr/infobiogen/searchlauncher.bcm.tmc.edu/index.html) is an ongoing project to organize molecular biology-related search and analysis services available on the web by function, by providing a single point-of-entry for related searches.
 
 [Pfam](http://pfam.xfam.org/) is a large collection of multiple sequence alignments and hidden Markov models covering many common protein families.
 
-[Prodom](http://prodom.prabi.fr/prodom/current/html/home.php) is a comprehensive set of protein domain families automatically generated from the SWISS-PROT and TrEMBL sequence databases.
+Prodom is a comprehensive set of protein domain families automatically generated from the SWISS-PROT and TrEMBL sequence databases.
 
 The [ExPASy](http://www.expasy.ch/) (Expert Protein Analysis System) proteomics server of the Swiss Institute of Bioinformatics is dedicated to the analysis of protein sequences and structures.
 
 The [Whitehead Institute](http://wi.mit.edu/) serves as the flagship of the Human Genome Project, the international effort to identify the blueprint for a human being.
 
-Protocol
---------
+## Protocol
 
 [Bioprotocol](http://www.aboutus.org/BioProtocol.com) is a compendium of high quality web links of interest and use to life science researchers and others working in the areas of biotechnology and the biomedical sciences.
 
 The [National Center for Research Resources](https://www.federallabs.org/labs/national-center-for-research-resources-ncrr) supports primary research to create and develop critical resources, models, and technologies.
 
-Computation
------------
+## Computation
 
 Intelligence basically means the ability to perform well on new data after learning a model on the basis of given data. The [NATO Advanced Study Institute on Learning Theory and Practice](http://www.esat.kuleuven.ac.be/sista/natoasi/ltp2002.html) conference promotes the understanding of problems of learning and generalization.
 
