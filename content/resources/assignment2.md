@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The Repressilator
-file: /ol-ocw-studio-app/courses/9-530-cellular-and-molecular-computation-spring-2000/fd6b9d0ece4f8b65bfaaedade459b331_assignment2.pdf
+file: /courses/9-530-cellular-and-molecular-computation-spring-2000/fd6b9d0ece4f8b65bfaaedade459b331_assignment2.pdf
 file_size: 23611
 file_type: application/pdf
 learning_resource_types:
